@@ -1,0 +1,16 @@
+.header {
+    order: 1;
+}
+.c4 {
+    order: 2;
+    width: 30vw;
+    height: 80vh;
+}
+.c3 {
+    order: 3;
+    width: 70vw;
+    height: 80vh;
+}
+.container {
+    flex-direction: row;
+}
